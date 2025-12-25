@@ -1,0 +1,6 @@
+name = "libretv"
+main = "server.js"
+compatibility_date = "2025-12-25"
+
+[vars]
+PASSWORD = "030906zxY@"  # 设置访问密码
